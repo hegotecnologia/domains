@@ -1,4 +1,4 @@
-# HEGO - Support
+# HEGO - Domains
 
 
 
@@ -12,7 +12,7 @@
 
 ## Install
 ```bash
-composer require hego/support dev-master
+composer require hego/domains dev-master
 ```
 
 ## Usage
