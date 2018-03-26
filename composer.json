@@ -10,7 +10,8 @@
     ],
     "require": {
         "php": "^7.1.3",
-        "hego/support": "dev-develop"
+        "hego/support": "dev-develop",
+        "tymon/jwt-auth": "dev-develop"
     },
     "autoload": {
         "psr-4": {
